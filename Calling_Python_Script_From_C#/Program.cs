@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
-using IronPython.Hosting;
+using System.Diagnostics;
 
 namespace ConsoApp
 {
@@ -9,7 +9,7 @@ namespace ConsoApp
         static void Main(string[] args)
         {
             Console.WriteLine("hi");
-            var engine = Python.CreateEngine();
+            
         }
     }
 }
