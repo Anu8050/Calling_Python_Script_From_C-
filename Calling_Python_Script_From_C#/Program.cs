@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
-using ComponentAce.Compression.Libs.ZLib;
 using System.Diagnostics;
 
 class Program
